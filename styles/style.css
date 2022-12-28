@@ -1,0 +1,7 @@
+/* Primary Font-styel */
+body{font-family: 'Roboto', sans-serif;}
+.carousel-item img{width: 1440px;
+                   height: 584px;}
+.facility-style{background-color:#8A1538}
+.fa-solid{font-size: 80px;
+          color: white;}
